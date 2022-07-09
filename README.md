@@ -2,6 +2,8 @@
 
 Learning GraphQL (https://graphql.org/) using NestJS (https://nestjs.com/) application
 
+Next level after this: https://github.com/lightzane/review-nestjs-graphql
+
 ## Test this Project
 
 1. `npm run start:dev`
